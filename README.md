@@ -4,10 +4,11 @@
 > To save the planet we must first understand which species are in danger so that quick and appropriate action can be taken.
 > More than 38,500 speciesare threatened with extinction.
 
-## Country
+## Country/Region
 
 - [Global](#global):globe_with_meridians:
 - [India](#india):india:
+- [Europe](#europe):europe:
 
 
 ## Global
@@ -37,4 +38,10 @@
 - Lion-tailed macaque/ wanderoo (Macaca silenus)
 - Nilgiri tahr
 - Kharai Camel – India’s swimming camels
+
+## Europe
+- Skadar gudgeon (Gobio skadarensis)
+- Half-naked Hatchetfish (Argyropelecus hemigymnus)
+- Bull Shark (Carcharhinus leucas)
+- Dice Snake (Natrix tessellata)
 
