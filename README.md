@@ -8,12 +8,32 @@
 
 - [Global](#global):globe_with_meridians:
 - [India](#india):india:
-- [Europe](#europe):europe:
-
+- [Europe](#europe):europe
 
 ## Global
 - American Eel (Anguilla rostrata)
 - American Bison (Bison bison)
+- Addax (Addax Nasomaculatus)
+- Hirola (Beatragus hunteri)
+- Ader's duiker (Cephalophus adersi)
+- Dama gazelle (Nanger dama)
+- Saiga (Saiga tatarica)
+- Amur Leopard	(Panthera pardus orientalis)	 
+- Black Rhino	(Diceros bicornis)	 
+- Bornean Orangutan	(Pongo pygmaeus)	 
+- Cross River Gorilla	(Gorilla gorilla diehli)	 
+- Eastern Lowland Gorilla	(Gorilla beringei graueri)	 
+- Hawksbill Turtle	(Eretmochelys imbricata)	 
+- Javan Rhino	(Rhinoceros sondaicus)	 
+- Orangutan	(Pongo abelii, Pongo pygmaeus)	 
+- Saola	(Pseudoryx nghetinhensis)	 
+- Sumatran Elephant	(Elephas maximus sumatranus)	 
+- Sumatran Orangutan	(Pongo abelii)	 
+- Sumatran Rhino	(Dicerorhinus sumatrensis)	 
+- Sunda Tiger	(Panthera tigris sondaica)	 
+- Vaquita	(Phocoena sinus)	 
+- Western Lowland Gorilla	(Gorilla gorilla gorilla)	 
+- Yangtze Finless Porpoise	(Neophocaena asiaeorientalis ssp. asiaeorientalis)	 
 
 
 ## India
@@ -44,4 +64,21 @@
 - Half-naked Hatchetfish (Argyropelecus hemigymnus)
 - Bull Shark (Carcharhinus leucas)
 - Dice Snake (Natrix tessellata)
+- Striped Seabream (Lithognathus mormyrus)
+- Sharpsnout Seabream (Diplodus puntazzo)
+- Fangtooth Moray (Enchelycore anatina)
+- Black-faced Blenny (Tripterygion delaisi)
+- Blennie Diabolo (Parablennius incognitus)
+- Scaleless Dragonfish (Leptostomias gladiator)
+- Risso's Smooth-head (Alepocephalus rostratus)
+- Silvery Lightfish (Maurolicus muelleri)
+- Sowerby's Beaked Whale (Mesoplodon bidens)
+- Long-snouted Seahorse (Hippocampus guttulatus)
+- Elongated Bristlemouth Fish (Gonostoma elongatum)
+- Painted Comber (Serranus scriba)
+- Smalleye Squaretail (Tetragonurus cuvieri)
+- White Seabream (Diplodus sargus)
+
+
+
 
