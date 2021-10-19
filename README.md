@@ -8,7 +8,7 @@
 
 - [Global](#global):globe_with_meridians:
 - [India](#india):india:
-- [Europe](#europe):europe
+- [Europe](#europe)
 
 ## Global
 - American Eel (Anguilla rostrata)
