@@ -58,6 +58,7 @@
 - Lion-tailed macaque/ wanderoo (Macaca silenus)
 - Nilgiri tahr
 - Kharai Camel – India’s swimming camels
+- Four-horned antelope, Chousingha
 
 ## Europe
 - Skadar gudgeon (Gobio skadarensis)
