@@ -9,6 +9,7 @@
 - [Global](#global):globe_with_meridians:
 - [India](#india):india:
 - [Europe](#europe)
+- [Africa](#africa)
 
 ## Global
 - American Eel (Anguilla rostrata)
@@ -80,6 +81,45 @@
 - Smalleye Squaretail (Tetragonurus cuvieri)
 - White Seabream (Diplodus sargus)
 - Least Weasel (Mustela nivalis)
+
+## Africa
+- Halavi Guitarfish (Glaucostegus halavi)
+- Sociable Lapwing (Vanellus gregarius)
+- African Wild Ass (Equus africanus)
+- Addax (Addax nasomaculatus)
+- Atlantic sturgeon (Acipenser sturio)
+- Angelshark (Squatina squatina)
+- Hawksbill Turtle (Eretmochelys imbricata)
+- Great Hammerhead (Sphyrna mokarran)
+- Scalloped Hammerhead (Sphyrna lewini)
+- Whitespotted Wedgefish (Rhynchobatus djiddensis)
+- North Atlantic Right Whale (Eubalaena glacialis)
+- Hooded Vulture (Necrosyrtes monachus)
+- Beautiful water-starwort (Callitriche pulchra)
+- Sahara Killifish (Apricaphanius saourensis)
+- Scalloped Hammerhead (Sphyrna lewini)
+- Slender-snouted Crocodile (Mecistops cataphractus)
+- Scott's stick insect (Carausius scotti)
+- Bizarre-nosed Chameleon (Calumma hafahafa)
+- Red Stumpnose Seabream (Chrysoblephus gibbiceps)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
