@@ -144,11 +144,12 @@
 - Gharial (Gavialis gangeticus)
 - Baer's Pochard (Aythya baeri)
 - Hawksbill Turtle (Eretmochelys imbricata)
-
-
-
-
-
+- Hadramaut Himri (Carasobarbus exulatus)
+- Arabian Himri (Carasobarbus apoensis)
+- Star Gentian (Gentiana cruciata)
+- European Tree Frog (Hyla arborea)
+- Striped Hyaena (Hyaena hyaena)
+Lesser Mole Rat (Nannospalax leucodon)
 
 
 
