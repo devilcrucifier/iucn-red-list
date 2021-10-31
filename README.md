@@ -10,7 +10,7 @@
 - [India](#india):india:
 - [Europe](#europe)
 - [Africa](#africa)
-- [South America](#south-america)
+- [West and Central Asia](#west and central asia)
 
 
 ## Global
@@ -104,62 +104,14 @@
 - Slender-snouted Crocodile (Mecistops cataphractus)
 - Scott's stick insect (Carausius scotti)
 - Bizarre-nosed Chameleon (Calumma hafahafa)
-- Red Stumpnose Seabream (Chrysoblephus gibbiceps)
+- Red Stumpnose Seabream (Chrysoblephus gibbiceps) 
 
-
-## South America
-- Itatiaia Highland Frog (Holoaden bradei)
-- Parodia arnostiana
-- Uebelmannia buiningii
-- Staghorn Coral (Acropora cervicornis)
-- Megalobulimus grandis
-- Pilosocereus diersianus
-- Fissidens hydropogon
-- Spruceanthus theobromae
-- Santiago Giant Tortoise (Chelonoidis darwini)
-- Reticulate Leaf Frog (Pithecopus ayeaye)
-- White-bellied Cinclodes (Cinclodes palliatus)
-- Tandayapa Andes Toad (Rhaebo olallai)
-- Blue-eyed Ground-dove (Columbina cyanopis)
-- Largetooth Sawfish (Pristis pristis)
-- Veragua Stubfoot Toad (Atelopus cruciger)
-- Manduriacu Glassfrog (Nymphargus manduriacu)
-- Buffy-headed Marmoset (Callithrix flaviceps)
-- Pied Tamarin (Saguinus bicolor)
-- Glaucous Macaw (Anodorhynchus glaucus)
-- Orinoco Crocodile (Crocodylus intermedius)
-- Olalla Brothers’ Titi (Plecturocebus olallae)
-- Lemur Leaf Frog (Agalychnis lemur)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## West and Central Asia
+- Sociable Lapwing (Vanellus gregarius)
+- Angelshark (Squatina squatina)
+- Indian Vulture (Gyps indicus)
+- Coastal Iris (Iris atropurpurea)
+- Southern Even-fingered Gecko (Alsophylax laevis)
 
 
 
