@@ -11,7 +11,7 @@
 - [Europe](#europe)
 - [Africa](#africa)
 - [South America](#south-america)
-- [West and Central Asia](#west-central-asia-america)
+- [West and Central Asia](#west-and-central-asia)
 
 ## Global
 - American Eel (Anguilla rostrata)
