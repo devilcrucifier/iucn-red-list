@@ -10,6 +10,8 @@
 - [India](#india):india:
 - [Europe](#europe)
 - [Africa](#africa)
+- [South America](#south-america)
+
 
 ## Global
 - American Eel (Anguilla rostrata)
@@ -103,6 +105,55 @@
 - Scott's stick insect (Carausius scotti)
 - Bizarre-nosed Chameleon (Calumma hafahafa)
 - Red Stumpnose Seabream (Chrysoblephus gibbiceps)
+
+
+## South America
+- Itatiaia Highland Frog (Holoaden bradei)
+- Parodia arnostiana
+- Uebelmannia buiningii
+- Staghorn Coral (Acropora cervicornis)
+- Megalobulimus grandis
+- Pilosocereus diersianus
+- Fissidens hydropogon
+- Spruceanthus theobromae
+- Santiago Giant Tortoise (Chelonoidis darwini)
+- Reticulate Leaf Frog (Pithecopus ayeaye)
+- White-bellied Cinclodes (Cinclodes palliatus)
+- Tandayapa Andes Toad (Rhaebo olallai)
+- Blue-eyed Ground-dove (Columbina cyanopis)
+- Largetooth Sawfish (Pristis pristis)
+- Veragua Stubfoot Toad (Atelopus cruciger)
+- Manduriacu Glassfrog (Nymphargus manduriacu)
+- Buffy-headed Marmoset (Callithrix flaviceps)
+- Pied Tamarin (Saguinus bicolor)
+- Glaucous Macaw (Anodorhynchus glaucus)
+- Orinoco Crocodile (Crocodylus intermedius)
+- Olalla Brothers’ Titi (Plecturocebus olallae)
+- Lemur Leaf Frog (Agalychnis lemur)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
