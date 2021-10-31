@@ -11,7 +11,7 @@
 - [Europe](#europe)
 - [Africa](#africa)
 - [South America](#south-america)
-
+- [West and Central Asia](#west and central asia)
 
 ## Global
 - American Eel (Anguilla rostrata)
@@ -130,6 +130,13 @@
 - Orinoco Crocodile (Crocodylus intermedius)
 - Olalla Brothers’ Titi (Plecturocebus olallae)
 - Lemur Leaf Frog (Agalychnis lemur)
+
+## West and Central Asia
+- Sociable Lapwing (Vanellus gregarius)
+- Angelshark (Squatina squatina)
+- Indian Vulture (Gyps indicus)
+- Coastal Iris (Iris atropurpurea)
+- Southern Even-fingered Gecko (Alsophylax laevis)
 
 
 
