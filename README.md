@@ -144,12 +144,17 @@
 - Gharial (Gavialis gangeticus)
 - Baer's Pochard (Aythya baeri)
 - Hawksbill Turtle (Eretmochelys imbricata)
+- Bull Shark (Carcharhinus leucas)
+- Motherwort (Leonurus cardiaca)
+- Common Bottlenose Dolphin (Tursiops truncatus)
+- Agarwood (Aquilaria malaccensis)
+- Dropwort (Filipendula vulgaris)
 - Hadramaut Himri (Carasobarbus exulatus)
 - Arabian Himri (Carasobarbus apoensis)
 - Star Gentian (Gentiana cruciata)
 - European Tree Frog (Hyla arborea)
 - Striped Hyaena (Hyaena hyaena)
-Lesser Mole Rat (Nannospalax leucodon)
+- Lesser Mole Rat (Nannospalax leucodon)
 
 
 
