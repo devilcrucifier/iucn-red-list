@@ -60,6 +60,7 @@
 - Nilgiri tahr
 - Kharai Camel – India’s swimming camels
 - Four-horned antelope, Chousingha
+- Indian flying fox (Pteropus medius)
 
 ## Europe
 - Skadar gudgeon (Gobio skadarensis)
