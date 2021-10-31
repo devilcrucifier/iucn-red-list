@@ -130,6 +130,8 @@
 - Orinoco Crocodile (Crocodylus intermedius)
 - Olalla Brothers’ Titi (Plecturocebus olallae)
 - Lemur Leaf Frog (Agalychnis lemur)
+- Brazilian Merganser (Mergus octosetaceus)
+- Brazilian Cherry (Eugenia uniflora)
 
 ## West and Central Asia
 - Sociable Lapwing (Vanellus gregarius)
