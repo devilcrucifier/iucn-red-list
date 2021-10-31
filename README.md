@@ -137,10 +137,11 @@
 - Indian Vulture (Gyps indicus)
 - Coastal Iris (Iris atropurpurea)
 - Southern Even-fingered Gecko (Alsophylax laevis)
-
-
-
-
+- Beluga (Huso huso)
+- Vatsanabha (Aconitum chasmanthum)
+- Gharial (Gavialis gangeticus)
+- Baer's Pochard (Aythya baeri)
+- Hawksbill Turtle (Eretmochelys imbricata)
 
 
 
