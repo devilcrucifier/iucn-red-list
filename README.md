@@ -156,7 +156,13 @@
 - Striped Hyaena (Hyaena hyaena)
 - Lesser Mole Rat (Nannospalax leucodon)
 
-
+## East Asia
+- Baikal Teal (Anas formosa)
+- Bekko Tombo (Libellula angelina)
+- Birdlike Noctule (Nyctalus aviator)
+- Chinese Sturgeon (Acipenser sinensis)
+- Crested Shelduck (Tadorna cristata)
+- Japanese Murrelet (Synthliboramphus wumizusume)
 
 
 
